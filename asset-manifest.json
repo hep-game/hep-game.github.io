@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0bd90cde.chunk.css",
-    "main.js": "/static/js/main.c4c35067.chunk.js",
-    "main.js.map": "/static/js/main.c4c35067.chunk.js.map",
+    "main.js": "/static/js/main.99ef22eb.chunk.js",
+    "main.js.map": "/static/js/main.99ef22eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29742afe.js",
     "runtime-main.js.map": "/static/js/runtime-main.29742afe.js.map",
     "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
@@ -14,19 +14,19 @@
     "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
     "static/css/main.0bd90cde.chunk.css.map": "/static/css/main.0bd90cde.chunk.css.map",
     "static/js/2.9867053e.chunk.js.LICENSE.txt": "/static/js/2.9867053e.chunk.js.LICENSE.txt",
-    "static/media/aluminio.PNG": "/static/media/aluminio.17a5583d.PNG",
-    "static/media/cobre.PNG": "/static/media/cobre.64a887a4.PNG",
+    "static/media/aluminio.png": "/static/media/aluminio.17a5583d.png",
+    "static/media/cobre.png": "/static/media/cobre.64a887a4.png",
     "static/media/dirac.png": "/static/media/dirac.17f80bdf.png",
     "static/media/eletron-dirac.png": "/static/media/eletron-dirac.459cc9f2.png",
-    "static/media/ferro.PNG": "/static/media/ferro.1229acff.PNG",
+    "static/media/ferro.png": "/static/media/ferro.1229acff.png",
     "static/media/gellmann.png": "/static/media/gellmann.2bf43c2a.png",
     "static/media/gluon.png": "/static/media/gluon.f9335316.png",
-    "static/media/helio.PNG": "/static/media/helio.e21c6fee.PNG",
-    "static/media/hidrogenio.PNG": "/static/media/hidrogenio.57be557d.PNG",
+    "static/media/helio.png": "/static/media/helio.e21c6fee.png",
+    "static/media/hidrogenio.png": "/static/media/hidrogenio.57be557d.png",
     "static/media/mar-de-dirac.png": "/static/media/mar-de-dirac.d3ce3876.png",
     "static/media/niobio.PNG": "/static/media/niobio.7b61ee26.PNG",
     "static/media/positron.png": "/static/media/positron.1453c80a.png",
-    "static/media/prata.PNG": "/static/media/prata.125b92a2.PNG",
+    "static/media/prata.png": "/static/media/prata.125b92a2.png",
     "static/media/quark-down.png": "/static/media/quark-down.b7a280cc.png",
     "static/media/quark-up.png": "/static/media/quark-up.15bf0d79.png"
   },
@@ -35,6 +35,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.9867053e.chunk.js",
     "static/css/main.0bd90cde.chunk.css",
-    "static/js/main.c4c35067.chunk.js"
+    "static/js/main.99ef22eb.chunk.js"
   ]
 }
