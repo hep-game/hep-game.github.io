@@ -8,6 +8,30 @@
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
   {
+    "nome": "feynmann", 
+    "imagem": "feynmann.png",
+    "descricao": "Físico teórico estadunidense foi o ganhador do prêmio Nobel de 1965 junto com Schwinger e Tomonaga pelo desenvolvimento da eletrodinâmica quântica. Teoria que previa a interação de elétrons, pósitrons e fótons em um contexto de teoria quântica de campos, melhorando de maneira significativa os trabalhos realizados por Paul Dirac. Professor bem-humorado e talentoso é considerado um dos maiores comunicadores dentre ganhadores de prêmio Nobel.",
+    "deck": "no",
+    "genio": true,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "gsw", 
+    "imagem": "gsw.png",
+    "descricao": "Físicos responsáveis pela teoria de unificação da força eletrofraca, colocando em um mesmo modelo a teoria que explica elétrons, pósitrons, neutrinos, fótons e os bósons da força fraca. Por esse feito os três ganharam o prêmio Nobel de física de 1979. Sheldon Glashow e Steven Weinberg eram estadunidenses e Abdus Salam era paquistanês.",
+    "deck": "no",
+    "genio": true,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Paul Dirac", 
+    "imagem": "dirac.png",
+    "descricao": "Físico inglês e ganhador, junto com Erwin Schroedinger, do prêmio Nobel de física de 1933 pelo trabalho em mecânica quântica sobre a descrição precisa dos níveis de energia de elétrons em átomos simples. Formulou a equação de Dirac, através da junção da mecânica quântica com relatividade especial e previu a existência de antipartículas, especialmente o pósitron, a antipartícula do elétron.",
+    "deck": "Dirac",
+    "genio": true,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
     "nome": "Glúon", 
     "imagem": "gluon.png",
     "descricao": "Partícula elementar bosônica mensageira da força nuclear forte. Pode aparecer em oito tipos diferentes de carga de cor e é responsável por manter os quarks presos dentro de hádrons (prótons e nêutrons) e mésons. Teorizado por Gell-Mann não foi uma partícula simples de ser descoberta, já que não pode ser observada livre na Natureza e nos prótons e nêutrons ele aparece como partículas virtuais. Em 1978 foi descoberto indiretamente pela produção de glúons no colisor de elétron-pósitron DESY (Deutsches Elektronen-Synchrotron) e teve seu spin determinado assim como Gell-Mann previu, igual a 1.",
@@ -29,14 +53,6 @@
     "descricao": "É o quark mais leve conhecido, descoberto pelo acelerador linear de Stanford (SLAC) em 1968. Como todos os quarks ele é um férmion de spin ½ e pode interagir através de todas as interações conhecidas da natureza: gravitacional, eletromagnética, força fraca e forte. Junto do quark down é o principal constituinte da matéria, já que prótons são formados por 2 quarks up e 1 down e os nêutrons por 2 quarks down e 1 up, nos dois casos os glúons estabilizam a estrutura de três quarks. Sua carga elétrica é de +2/3 da carga elementar (e) e sua massa é 2,2 MeV/c².",
     "deck": "Gell-Mann",
     "genio": false,
-    "tags": ["tag_1", "tag_2", "tag_3"]
-  },
-  {
-    "nome": "Paul Dirac", 
-    "imagem": "dirac.png",
-    "descricao": "Físico inglês e ganhador, junto com Erwin Schroedinger, do prêmio Nobel de física de 1933 pelo trabalho em mecânica quântica sobre a descrição precisa dos níveis de energia de elétrons em átomos simples. Formulou a equação de Dirac, através da junção da mecânica quântica com relatividade especial e previu a existência de antipartículas, especialmente o pósitron, a antipartícula do elétron.",
-    "deck": "Dirac",
-    "genio": true,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
   {
@@ -111,6 +127,29 @@
     "deck": "no",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "niobio", 
+    "imagem": "niobio.png",
+    "descricao": "Estima-se que o nióbio seja o 33° elemento mais abundante da Terra. O metal tem uma coloração azulada quando exposto ao ar em temperatura ambiente por um longo tempo. Apesar de ter um alto ponto de fusão (2 468 °C), ele tem uma densidade menor se comparado com outros metais refratários. Além disso, tem resistência à corrosão, apresentam propriedades supercondutoras, e nas camadas de óxidos - propriedades dielétricas. O nióbio é um material lustroso, com coloração cinza brilhante, dúctil, um metal paramagnético no Grupo 5 da Tabela Periódica, embora tenha uma configuração eletrônica anômala se comparado com os outros membros. Torna-se um material supercondutor sob temperaturas criogênicas. Sob pressão atmosférica, possui a temperatura crítica mais elevada dos elementos supercondutores: 9,2 K, tendo a melhor supercondutividade. Além disso, ele é um dos três elementos supercondutores Tipo 2, com o vanádio e o tecnécio. As propriedades supercondutoras são fortemente dependentes de sua pureza. Quanto mais puro, mais mole e dúctil, porém, as impurezas do nióbio o tornam mais duro. O niobato de lítio é um material com propriedades ferromagnéticas, aproveitados na produção de telefones celulares, nos moduladores ópticos e na fabricação de aparelhos de superfície de ondas acústicas. São considerados uma alternativa mais econômica para o desenvolvimento de capacitores,[93] apesar da predominância dos capacitores de tântalo. Os compostos de nióbio-germânio (Nb3Ge), nióbio-escândio e as ligas de nióbio-titânio são utilizados como tipos de semicondutores II como fios de ímãs supercondutores.[94][95] Estes ímãs supercondutores são utilizados nos instrumentos das máquinas de imagens por ressonância magnética e nas máquinas de ressonância magnética nuclear, como também, nos aceleradores de partículas. ",
+    "deck": "no",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+{
+    "nome": "silicio", 
+    "imagem": "silicio.png",
+    "descricao": "O silício é o segundo elemento mais abundante na crosta terrestre, perfazendo mais de 28% de sua massa. Por possuir várias propriedades físico-químicas importantes, como alta resistência mecânica a altas temperaturas, ser isolante, flexível, resistir ao ataque de ácidos, bactérias, álcalis, etc., isso faz com que essa fibra seja utilizada na fabricação de telhas, tanques, em diversos produtos da construção civil e para isolar termicamente máquinas e equipamentos. Por possuir várias propriedades físico-químicas importantes, como alta resistência mecânica a altas temperaturas, ser isolante, flexível, resistir ao ataque de ácidos, bactérias, álcalis, etc., isso faz com que essa fibra seja utilizada na fabricação de telhas, tanques, em diversos produtos da construção civil e para isolar termicamente máquinas e equipamentos. O silício é um elemento vital em numerosas indústrias. O dióxido de silício, areia e argila são importantes constituintes do concreto armado e azulejos (ladrilhos), sendo empregadas na produção do cimento Portland e como elemento de liga em fundições. Esse silício ultrapuro é importante para a fabricação de semicondutores para uso em equipamentos eletrônicos, tais como: - Diodos - Transistores - Microprocessadores",
+    "deck": "no",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "titanio", 
+    "imagem": "titanio.png",
+    "descricao": "É o nono elemento mais abundante da crosta terrestre (0,63% de sua massa) e o sétimo metal mais abundante. Possui baixa densidade, boa resistência mecânica à tração, excelente resistência à corrosão e relativa abundância na natureza, geralmente sob a forma de minerais oxidados. Ele pode ser utilizado para a produção de ligas com ferro, alumínio, vanádio e molibdênio, entre outros elementos, para aumentar a resistência mecânica, utilizada na indústria aeroespacial (motores, mísseis e foguetes). As ligas de titânio são comumente presentes apenas em carros de luxo e carros esportivos, raramente aplicados em carros populares.",
+    "deck": "no",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
   }
-
 ]
