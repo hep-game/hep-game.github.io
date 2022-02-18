@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.63295da7.chunk.css",
-    "main.js": "/static/js/main.03cf5123.chunk.js",
-    "main.js.map": "/static/js/main.03cf5123.chunk.js.map",
+    "main.js": "/static/js/main.ff4e890d.chunk.js",
+    "main.js.map": "/static/js/main.ff4e890d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.91175c4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.91175c4c.js.map",
     "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
@@ -30,7 +30,7 @@
     "static/media/marcela.png": "/static/media/marcela.abeeb821.png",
     "static/media/marcotulio.png": "/static/media/marcotulio.05a6d765.png",
     "static/media/neutron.png": "/static/media/neutron.81633114.png",
-    "static/media/niobio.PNG": "/static/media/niobio.7b61ee26.PNG",
+    "static/media/niobio.png": "/static/media/niobio.7b61ee26.png",
     "static/media/positron.png": "/static/media/positron.1453c80a.png",
     "static/media/prata.png": "/static/media/prata.125b92a2.png",
     "static/media/proton.png": "/static/media/proton.8c0cda60.png",
@@ -49,6 +49,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.fa9871b5.chunk.js",
     "static/css/main.63295da7.chunk.css",
-    "static/js/main.03cf5123.chunk.js"
+    "static/js/main.ff4e890d.chunk.js"
   ]
 }
