@@ -9,6 +9,12 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
+        
+      - name: Resize images for production 🎨 
+        run: |
+          apt update
+          apt --yes install imagemagick
+          mogrify -resize 600 ./src/assets/cards/images/*.png
 
       - name: Install and Build 🔧
         run: |
